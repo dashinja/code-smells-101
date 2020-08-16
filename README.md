@@ -221,7 +221,8 @@
       variable -> method -> class -<-----interface
                                     \------inherience 
 
-remove extra unused/duplicate entities --unused or duplicate
+remove extra unused/duplicate entities 
+- unused or duplicate
 
 compose | extract | delegate   
 - your x is large
