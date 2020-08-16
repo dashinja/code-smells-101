@@ -224,9 +224,9 @@
 remove extra unused/duplicate entities --unused or duplicate
 
 compose | extract | delegate   
-  -- your x is large
-  -- oop abuser
-  -- change preventers
-  -- request for others( responsibity) 
-  -- if request if more than 50% of time, extract class otherwise delegate
+- your x is large
+- oop abuser
+- change preventers
+- request for others( responsibity) 
+- if request if more than 50% of time, extract class otherwise delegate
 
