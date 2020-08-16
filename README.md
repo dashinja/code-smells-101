@@ -1,4 +1,6 @@
 # code smells 101    
+## the goals of refactoring is apply more changes with less effort
+
 
 ### 1.bloaters (kill big)   
 <table  border="1">
@@ -227,7 +229,7 @@ remove extra unused/duplicate entities
 compose | extract | delegate   
 - your x is large
 - oop abuser(wrong interface request to others)
-- change preventers(too many change on behavior)
+- change preventers(too many change applied behavior or same class)
 - request for others( responsibity) 
 - if request if more than 50% of time, extract class otherwise delegate
 
