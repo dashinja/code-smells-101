@@ -137,7 +137,7 @@
    <tr>
     <td> 3 </td>
     <td> data class</td>
-    <td> class in data container without any login inside</td> 
+    <td> class in data container without any logic inside</td> 
     <td>    </td> 
   </tr>
    <tr>
