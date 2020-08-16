@@ -1,5 +1,5 @@
 # code smells 101    
-## the goals of refactoring is apply more changes with less effort
+## the goals of refactoring is apply more changes with less effort       
 
 
 ### 1.bloaters (kill big)   
