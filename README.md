@@ -217,8 +217,8 @@
 
 **order of refactoring** 
 
-                                    /-----container(delegate) 
-      variable -> method -> class -<-----interface
+                                    /-----container |delegate 
+      variable -> method -> class -<-----interface | abstract
                                     \------inherience 
 
 remove extra unused/duplicate entities 
@@ -226,8 +226,8 @@ remove extra unused/duplicate entities
 
 compose | extract | delegate   
 - your x is large
-- oop abuser
-- change preventers
+- oop abuser(wrong interface request to others)
+- change preventers(too many change on behavior)
 - request for others( responsibity) 
 - if request if more than 50% of time, extract class otherwise delegate
 
