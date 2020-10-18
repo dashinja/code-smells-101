@@ -20,7 +20,7 @@
     <td> 2 </td>
     <td> large class </td>
     <td>  class methods length >10  </td> 
-    <td> extrat class       </td> 
+    <td> extract class       </td> 
   </tr>
    <tr>
     <td> 3 </td>
@@ -148,20 +148,14 @@
     <td> code without using some where</td> 
     <td> remove it :|     </td> 
   </tr>
-   <tr>
-    <td> 5 </td>
-    <td> dead code  </td>
-    <td> code without using some where</td> 
-    <td> remove it :|     </td> 
-  </tr>
   <tr>
-    <td> 6 </td>
+    <td> 5 </td>
     <td> lazy class  </td>
     <td> code with little using </td> 
     <td> fire them     </td> 
   </tr>
     <tr>
-    <td> 7</td>
+    <td> 6</td>
     <td> speculative Generality  </td>
     <td> we will need it in future , so let it be </td> 
     <td> no need premature optimization , remove it    </td> 
